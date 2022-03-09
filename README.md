@@ -8,4 +8,4 @@
 > многострочная
 > цитата
 
-+[inline-ссылка](https://github.com)
+- [inline-ссылка](https://github.com)
